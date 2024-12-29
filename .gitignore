@@ -115,3 +115,12 @@ fabric.properties
 .idea/**/azureSettings.xml
 
 # End of https://www.toptal.com/developers/gitignore/api/pycharm
+
+# Игнорировать файлы IntelliJ IDEA/JetBrains (.idea)
+.idea/
+
+# Игнорировать .iml файлы
+*.iml
+
+# Игнорировать все .xml файлы в папке .idea
+.idea/*.xml
